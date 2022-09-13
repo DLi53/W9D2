@@ -1,0 +1,19 @@
+
+
+/* ul { 
+    width: 500 px;
+    height: 500 px;
+   
+
+}
+li { color: rgb(0, 255, 0);
+
+} */
+
+ul {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+}
+
